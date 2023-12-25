@@ -6,7 +6,8 @@ function login() {
     var users = [
         { username: 'har', password: '23' },
         { username: 'kar', password: '12' },
-        { username: 'DebuggerメNaN', password: 'Karan251105' }
+        { username: 'DebuggerメNaN', password: 'Karan251105' },
+        { username: 'adityajha', password: 'aditya24' }
     ];
 
     // Check if the entered credentials match any user
