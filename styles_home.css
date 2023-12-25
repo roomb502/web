@@ -106,3 +106,22 @@ body, html {
   font-size: 18px;
   font-weight: bold;
 }
+
+/* Your existing styles */
+
+.custom-block {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.custom-block img {
+    max-width: 100%; /* Set the maximum width to 100% of the container */
+    height: auto;
+    max-height: 300px; /* Set a maximum height if needed */
+}
+
+.custom-block p {
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
