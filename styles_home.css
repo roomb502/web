@@ -89,3 +89,20 @@ body, html {
   padding: 20px;
   text-align: center;
 }
+/* Add this style for the new block */
+.custom-block {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.custom-block img {
+  width: 100%; /* Adjust the width as needed */
+  max-width: 400px; /* Set a maximum width for the image */
+  height: auto;
+}
+
+.custom-block p {
+  margin-top: 10px;
+  font-size: 18px;
+  font-weight: bold;
+}
