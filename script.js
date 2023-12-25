@@ -7,7 +7,8 @@ function login() {
         { username: 'har', password: '23' },
         { username: 'kar', password: '12' },
         { username: 'DebuggerメNaN', password: 'Karan251105' },
-        { username: 'adityajha', password: 'aditya24' }
+        { username: 'adityajha', password: 'aditya24' },
+        { username: 'h_patel129', password: '0000' },
     ];
 
     // Check if the entered credentials match any user
