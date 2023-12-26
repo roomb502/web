@@ -4,7 +4,7 @@ function login() {
 
     // For simplicity, hardcode user credentials
     var users = [
-        { username: 'har', password: '23' },
+        { username: 'har', password: '2312' },
         { username: 'kar', password: '12' },
         { username: 'DebuggerメNaN', password: 'Karan251105' },
         { username: 'adityajha', password: 'aditya24' },
